@@ -1,4 +1,4 @@
-public class SanketProblem1 {
+public class Problem1_Sanket {
     public int[] leftRightDifference(int[] nums) {
         int[] answer = new int[nums.length];
         int leftSum = 0;
