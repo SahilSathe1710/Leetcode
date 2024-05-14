@@ -27,5 +27,6 @@ public class TCSNQTQues1 {
             a[i] = sc.nextInt();
         }
         System.out.print("The number not present in the array is: " + isNotPresent(a, M));
+        sc.close();
     }
 }
