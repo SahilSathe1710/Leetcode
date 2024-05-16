@@ -30,8 +30,6 @@
 // 1 <= n <= 1000
 // 1 <= nums[i] <= 1000
 
-package Arrays;
-
 public class Problem1_Sahil {
     public int[] getConcatenation(int[] nums) {
         // List<Integer> arr = new ArrayList<Integer>();
@@ -55,3 +53,4 @@ public class Problem1_Sahil {
         return ans;
     }
 }
+

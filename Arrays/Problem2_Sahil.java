@@ -30,8 +30,6 @@
 // 0 <= nums[i] < nums.length
 // The elements in nums are distinct.
 
-package Arrays;
-
 public class Problem2_Sahil {
     public int[] buildArray(int[] nums) {
         int[] ans = new int[nums.length];
