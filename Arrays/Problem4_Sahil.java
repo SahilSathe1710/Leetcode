@@ -45,9 +45,6 @@
 // 1 <= operations.length <= 100
 // operations[i] will be either "++X", "X++", "--X", or "X--".
 
-
-package Arrays;
-
 public class Problem4_Sahil {
     public int finalValueAfterOperations(String[] operations) {
         int count=0;
